@@ -1,0 +1,7 @@
+{
+  "name": "movientime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

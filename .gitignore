@@ -38,9 +38,11 @@ www
 coverage
 platforms
 plugins
+movientime-key.keystore
 *.swp
 *.swo
 *.log
 *.DS_Store
+
 
 app/scripts/configuration.js
